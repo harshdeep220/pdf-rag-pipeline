@@ -1,0 +1,11 @@
+langchain
+langchain-community
+pypdf
+pinecone
+sentence-transformers
+torch
+transformers
+accelerate
+sentencepiece
+ollama
+python-dotenv  
